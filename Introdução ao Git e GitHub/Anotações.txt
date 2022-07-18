@@ -1,2 +1,18 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git
+
+Comandos Básicos para Git (Windows)
+
+Listar: dir
+Change directory: cd /
+Limpar tela: Alt + F8
+Make directory: mkdir
+
+O Comando 'del' deleta as pastas contidas no repositório, para deletar o repositório + todos os arquivos contidos, usa-se 'rmdir' (remove directory)
+
+Para monitorar o ponto do ciclo de vida do arquivo usa-se: git status
+Iniciar repositório: git init
+Adicionar arquivos: git add
+'Commitar': git commit
+
+Para visualizar arquivos ocultos, utiliza-se a flag '-a'
